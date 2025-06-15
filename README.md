@@ -17,9 +17,11 @@
 ---
 
 ## ⚙️ Tech Stack
-- Python · Scikit-learn · Numpy · Pandas
-- FastAPI · Streamlit · Matplotlib · PyTorch
-- LangChain · OpenAI (Coming Soon)
+- 🧠 Scikit-learn, Numpy, Pandas
+- 🤖 Logistic Regression, Naive Bayes, KNN, KMeans
+- 📦 FastAPI for API serving
+- 🧾 Streamlit (optionally for UI)
+- 🐍 LangChain & OpenAI (coming next!)
 
 ---
 
