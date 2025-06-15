@@ -11,7 +11,7 @@
 | **Titanic GenAI Predictor** | Predicts Titanic survival + explains it using GenAI | [View Repo](https://github.com/sonu-kumar-singh-04/titanic-genai-app) |
 | **Spam Detector API** | FastAPI app to classify messages as spam or ham | [View Repo](https://github.com/sonu-kumar-singh-04/titanic-genai-app) |
 | **LinkedIn Auto Commenter** | Auto comments on linked posts | [View Repo](https://github.com/sonu-kumar-singh-04/linkedin-auto-commenter) |
-| **MNIST Digit Classifier** | CNN-based image classifier for handwritten digits | [View Repo](https://github.com/yourusername/mnist-digit-classifier) |
+| **PDF Chatbot with FastAP** | RAG PDF Chatbot with FastAPI, LangChain & OpenAI | [View Repo](https://github.com/sonu-kumar-singh-04/rag-pdf-chatbot) |
 | **Movie Recommender** | Recommends movies using content similarity | [View Repo](https://github.com/yourusername/movie-recommender) |
 
 ---
